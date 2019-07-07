@@ -1,0 +1,30 @@
+a{
+  text-decoration: none;
+}
+
+/* starts */
+
+.header.top {
+  background: #374a74;
+  margin-bottom: 80px;
+}
+
+.footer {
+  background: #1a1919ef;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+}
+
+.navbar li {
+  list-style: none;
+  padding: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+}
