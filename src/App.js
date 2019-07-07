@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <img src="images/photo-1441984904996-e0b6ba687e04.jpg"/>
     </div>
   );
 }
